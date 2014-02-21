@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">HelloGlassActivity</string>
-    <string name="glass_voice_trigger">say hello</string>
-    <string name="hello_message">Hello, I am a glassware.</string>
+  <string name="app_name">HelloGlassActivity</string>
+  <string name="glass_voice_trigger">say hello</string>
+  <string name="hello_message">Hello, I am a glassware.</string>
 </resources>
