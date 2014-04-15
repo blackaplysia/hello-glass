@@ -2,4 +2,5 @@
 <resources>
   <string name="app_name">HelloGlass</string>
   <string name="hello_message">Hello, I am a glassware.</string>
+  <string name="glass_voice_trigger">hello glass</string>
 </resources>
